@@ -4,7 +4,7 @@
 
 ### **Module 1: Cloud & AWS Foundations** ☁️
 - 🌐 **Intro to AWS Cloud & Global Infrastructure**
-- 🔑 **Core Services Overview**: EC2, S3, IAM
+- 🔑 **Core Services Overview**: EC2, S3, IAM, Load Balancer etc
 - 🛡️ **Basic IAM & Multi-Factor Authentication**
 - 🧑‍🏫 **Hands-On**: Account setup, IAM policies, and S3 buckets
 
@@ -67,8 +67,16 @@
 ---
 
 ### **Capstone Project: Multi-Tier Architecture** 🏗️
-- 🎓 **Real-World Project**: Multi-region, secure, automated deployment
+- 🎓 **Real-World Project**: Multi-Tier Architecture
 
---- 
+---
 
-This course is packed with practical skills, best practices, and hands-on labs to prepare you for real-world AWS projects and certifications! 🌟
+📢 **Subscribe to My YouTube Channel!** 📢 
+
+
+If you’re excited about mastering Terraform from beginner to expert, 
+make sure to **hit the Subscribe button**  [DevOps With Namdev](https://www.youtube.com/@namdev.devops)!
+
+
+By subscribing, you’ll get access to the latest tutorials, real-world projects, and deep dives designed to help you master DevOps skills from the ground up. 
+Hit that **Subscribe** button to stay updated and take your expertise to the next level! 🎬👨‍💻
