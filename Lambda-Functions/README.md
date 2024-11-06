@@ -21,6 +21,7 @@ aws wafv2 create-api-key --scope REGIONAL --token-domains web.awsguruji.net
 2. Navigate to Lambda function service
 3. Create new lambda function using nodejs 18
 4. Copy below function code and execute it
+5. Use attached zip aws sdk node modules for supported lambda layers
 
 ```
 
