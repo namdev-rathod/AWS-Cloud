@@ -75,6 +75,12 @@ exports.handler = async (event) => {
 
 ---
 
+### Ref
+
+- https://docs.aws.amazon.com/cli/latest/reference/wafv2/create-api-key.html
+- https://aws.amazon.com/blogs/security/use-aws-waf-captcha-to-protect-your-application-against-common-bot-traffic/
+- https://docs.aws.amazon.com/waf/latest/developerguide/waf-captcha-and-challenge.html
+
 📢 **Subscribe to My YouTube Channel!** 📢 
 
 
