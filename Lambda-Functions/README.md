@@ -23,6 +23,29 @@ aws wafv2 create-api-key --scope REGIONAL --token-domains web.awsguruji.net
 4. Copy below function code and execute it
 5. Use attached zip aws sdk node modules for supported lambda layers
 
+ - IAM Role with WAF Permission For Lambda Function
+ 
+```
+
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Effect": "Allow",
+            "Action": [
+                "wafv2:CreateAPIKey",
+                "wafv2:ListAPIKeys",
+                "wafv2:DeleteAPIKey"
+            ],
+            "Resource": "*"
+        }
+    ]
+}
+
+```
+
+- Lambda Function To Create WAF Captcha API Key
+
 ```
 
 const AWS = require('aws-sdk');
