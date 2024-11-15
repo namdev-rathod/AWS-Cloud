@@ -37,8 +37,8 @@
 ### **Module 5: Automation & Infrastructure as Code** ⚙️📝
 - 🛠️ **CloudFormation & Advanced YAML Templates**
 - 💻 **AWS CDK for Advanced IaC**
-- 🔄 **CI/CD with CodePipeline, CodeBuild, CodeDeploy**
-- 🧪 **Hands-On**: Automating Deployments with CDK
+- 🔄 **CI/CD with Jenkins & GitHub Actions**
+- 🧪 **Hands-On**: Automating Deployments with CICD Pipelines
 
 ---
 
@@ -60,14 +60,6 @@
 
 ### **Module 8: Microservices Architecture on AWS** 🧩
 - ⚙️ **Designing Microservices with ECS/EKS**
-- 🌐 **Service Discovery, API Gateway, Scaling**
-- 📈 **Event-Driven Architectures with SNS, SQS, Kinesis**
-- 🧪 **Hands-On**: Microservices Deployment
-
----
-
-### **Capstone Project: Multi-Tier Architecture** 🏗️
-- 🎓 **Real-World Project**: Multi-Tier Architecture
 
 ---
 
