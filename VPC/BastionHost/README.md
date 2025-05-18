@@ -20,6 +20,7 @@ A **Bastion Host** (Jump Server) is a hardened server designed to provide **secu
 ## 🏗️ Typical Architecture
 
 ```markdown
+
 ![Secure Connection For RDS](https://github.com/user-attachments/assets/b5c5521f-1834-49f8-be83-f5dfd5165fef)
 
 ```
@@ -83,13 +84,10 @@ ssh -i MyKeyPair.pem ec2-user@<private-instance-private-ip>
 ## 📌 Diagram Placeholder
 
 ```markdown
+
 ![Secure Connection For RDS](https://github.com/user-attachments/assets/ec0018fb-2cf0-46c8-9cbe-689e30be5a41)
 
 ```
-
----
-
-If you want, I can help you generate a clean, professional SVG/PNG diagram too, or tailor this doc more for a specific cloud or environment.
 
 ---
 
