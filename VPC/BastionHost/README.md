@@ -21,7 +21,7 @@ A **Bastion Host** (Jump Server) is a hardened server designed to provide **secu
 
 ```markdown
 
-![Secure Connection For RDS](https://github.com/user-attachments/assets/b5c5521f-1834-49f8-be83-f5dfd5165fef)
+![Diagram](image.png)
 
 ```
 
