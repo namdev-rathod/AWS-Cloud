@@ -4,7 +4,7 @@
 
 ## 📖 Overview
 
-A **Bastion Host** (aka Jump Server) is a hardened server designed to provide **secure access** to private network resources that are otherwise inaccessible from the public internet. It acts as a controlled entry point to your internal infrastructure, reducing attack surfaces and improving auditability.
+A **Bastion Host** (Jump Server) is a hardened server designed to provide **secure access** to private network resources that are otherwise inaccessible from the public internet. It acts as a controlled entry point to your internal infrastructure, reducing attack surfaces and improving auditability.
 
 ---
 
@@ -20,7 +20,7 @@ A **Bastion Host** (aka Jump Server) is a hardened server designed to provide **
 ## 🏗️ Typical Architecture
 
 ```markdown
-![Bastion Host Architecture Diagram](e:\6. YouTube\Live-Classes\DevOps\Hindi\Batch-7\Day-6 AWS VPC\Secure Connection For RDS.PNG)
+![Bastion Host Architecture Diagram]e:\6. YouTube\Live-Classes\DevOps\Hindi\Batch-7\Day-6 AWS VPC\Secure Connection For RDS.PNG
 ```
 
 ---
@@ -82,7 +82,7 @@ ssh -i MyKeyPair.pem ec2-user@<private-instance-private-ip>
 ## 📌 Diagram Placeholder
 
 ```markdown
-![Bastion Host Architecture Diagram](e:\6. YouTube\Live-Classes\DevOps\Hindi\Batch-7\Day-6 AWS VPC\Secure Connection For RDS.PNG)
+![Bastion Host Architecture Diagram] e:\6. YouTube\Live-Classes\DevOps\Hindi\Batch-7\Day-6 AWS VPC\Secure Connection For RDS.PNG
 ```
 
 ---
