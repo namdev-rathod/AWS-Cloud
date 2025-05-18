@@ -20,7 +20,7 @@ A **Bastion Host** (Jump Server) is a hardened server designed to provide **secu
 ## 🏗️ Typical Architecture
 
 ```markdown
-![Diagram](e:\6. YouTube\Live-Classes\DevOps\Hindi\Batch-7\Day-6 AWS VPC\Secure Connection For RDS.PNG)
+![Secure Connection For RDS](Secure Connection For RDS.PNG)
 
 ```
 
