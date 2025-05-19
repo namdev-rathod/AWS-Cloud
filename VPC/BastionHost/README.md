@@ -19,11 +19,8 @@ A **Bastion Host** (Jump Server) is a hardened server designed to provide **secu
 
 ## 🏗️ Typical Architecture
 
-```markdown
+![Secure Connection For RDS](https://github.com/user-attachments/assets/0530a60e-7516-447d-98ae-3e911975e1c3)
 
-![Diagram](image.png)
-
-```
 
 ---
 
@@ -78,16 +75,6 @@ ssh -i MyKeyPair.pem ec2-user@<private-instance-private-ip>
 * 📊 **Enable detailed monitoring and logging** (CloudTrail, VPC Flow Logs).
 * 🚫 **Disable direct SSH access** to private servers from the internet.
 * 🧩 **Consider AWS Systems Manager Session Manager** as a modern alternative to SSH bastion hosts.
-
----
-
-## 📌 Diagram Placeholder
-
-```markdown
-
-![Secure Connection For RDS](https://github.com/user-attachments/assets/ec0018fb-2cf0-46c8-9cbe-689e30be5a41)
-
-```
 
 ---
 
