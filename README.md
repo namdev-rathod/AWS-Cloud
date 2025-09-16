@@ -220,14 +220,25 @@
 
 ---
 
+## 👨‍🏫 Trainer Profile
+
+**Namdev Rathod** – AWS & DevOps Trainer | 14+ Years of IT Training Experience
+
+* ✅ Extensive expertise in **AWS Cloud, DevOps, Containers and Automation**
+* ✅ Trained **1,000+ professionals** across India and abroad
+* ✅ Experience in **corporate training, interview preparation and real-time project mentoring**
+* ✅ Passion for making complex cloud concepts simple & practical for learners
+* ✅ Strong track record of helping students crack **AWS Certifications & Job Interviews**
+
+🔗 **LinkedIn Profile**: [Namdev Rathod](https://www.linkedin.com/in/namdevrathod/)
+
+---
+
 📢 **Subscribe to My YouTube Channel!** 📢 
 
-
-If you’re excited about mastering Terraform from beginner to expert, 
-make sure to **hit the Subscribe button**  [DevOps With Namdev](https://www.youtube.com/@namdev.devops)!
+**Hit the Subscribe button**  [DevOps With Namdev](https://www.youtube.com/@namdev.devops)!
 
 
-By subscribing, you’ll get access to the latest tutorials, real-world projects, and deep dives designed to help you master DevOps skills from the ground up. 
 
-Hit that **Subscribe** button to stay updated and take your expertise to the next level! 🎬👨‍💻
+
 
