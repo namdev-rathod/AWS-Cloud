@@ -1,5 +1,74 @@
 # 🌩️ AWS Ultimate Course – Beginner to Advanced 🚀
 
+### Learn AWS from Scratch to Advanced with Real-World Projects
+
+👨‍🏫 Trainer: 14+ Years of IT Training & Industry Experience
+
+📍 **Mode**: Online (Microsoft Teams)
+
+🗣️ **Language**: English
+
+📅 **Batch Window**: Weekends (Saturday & Sunday)
+
+⏰ **Timing**: 9:00 AM – 11:00 AM (IST)
+
+---
+
+## 📘 What You’ll Learn
+
+✔️ AWS Cloud Fundamentals & Console Journey
+
+✔️ EC2, VPC, Load Balancing & Auto Scaling
+
+✔️ Security & Compliance (IAM, WAF, GuardDuty)
+
+✔️ Databases (RDS, Migration, Failover)
+
+✔️ Monitoring (CloudWatch, CloudTrail, APM)
+
+✔️ Containers (ECS, EKS, ECR) & Serverless (Lambda, API Gateway)
+
+✔️ Cost Optimization & Billing Management
+
+✔️ Real-World Projects & Hands-On Labs
+
+---
+
+## 💰 Course Fee
+
+| Plan                     | Price     | Includes                                                  |
+| ------------------------ | --------- | --------------------------------------------------------- |
+| 🇮🇳 **Indian Students** | ₹15,000/- | 60+ Hours Live Training, Projects, Certification Guidance |
+| 🌍 **Global Students**   | ₹25,000/- | 60+ Hours Live Training, Projects, Certification Guidance |
+
+---
+
+## 📲 Registration
+
+👉 **WhatsApp**: [+91 - 7276 12 1983](https://wa.me/917276121983)
+
+👉 **Batch Size**: Limited Seats – Reserve Early 🎯
+
+👉 **Mode of Payment**: UPI / Bank Transfer (Details will be shared on registration)
+
+---
+
+## 🎯 Why Choose This Course?
+
+* ✅ Structured Beginner → Advanced Curriculum
+* ✅ Hands-on Projects with Real Scenarios
+* ✅ Live Doubt-Solving & Q\&A Sessions
+* ✅ Interview & Certification Guidance
+* ✅ Trainer with **14+ Years of Real-Time IT Industry Experience**
+
+---
+
+## 🔗 Call to Action
+
+👉 [**Register Now on WhatsApp**](https://wa.me/917276121983)
+
+👉 [**Contact for Corporate Training**](https://wa.me/917276121983)
+
 ---
 
 ## 📘 Module 1: Introduction
@@ -161,3 +230,4 @@ make sure to **hit the Subscribe button**  [DevOps With Namdev](https://www.yout
 By subscribing, you’ll get access to the latest tutorials, real-world projects, and deep dives designed to help you master DevOps skills from the ground up. 
 
 Hit that **Subscribe** button to stay updated and take your expertise to the next level! 🎬👨‍💻
+
