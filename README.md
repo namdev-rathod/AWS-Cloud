@@ -34,6 +34,24 @@ This course is designed for **Developers, System Administrators, Cloud Engineers
 
 ---
 
+# 📅 Course Details
+
+| **Details**                  | **Information**                                        |
+| ---------------------------- | ------------------------------------------------------ |
+| ⏳ **Duration**               | 2 Months                                               |
+| 💰 **Course Fees**           | ₹15,000                                                |
+| 📆 **Batch Schedule**        | Weekend (Saturday & Sunday)                            |
+| 🕖 **Class Timings**         | 7:00 AM – 8:30 AM (IST)                                |
+| 🎯 **Mode of Training**      | Live Online Sessions                                   |
+| 💻 **Hands-on Labs**         | Real-Time AWS Projects & Practical Exercises           |
+| 🎥 **Session Recordings**    | Available for Revision                                 |
+| 📖 **Study Material**        | Notes, Architecture Diagrams & Practice Assignments    |
+| 🤝 **Support**               | Doubt Solving During & After Sessions                  |
+| 🎤 **Interview Preparation** | Real-Time Scenarios, Mock Interviews & Resume Guidance |
+| 📱  **WhatsApp**              | +91 7276 12 1983                                       |
+
+---
+
 # 📋 Prerequisites
 
 ## AWS Account
